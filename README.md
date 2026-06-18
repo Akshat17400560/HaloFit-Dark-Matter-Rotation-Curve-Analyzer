@@ -121,7 +121,7 @@ Dark Matter Rotation Curve Analyzer/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Akshat17400560/GravityLens.git
+git clone https://github.com/Akshat17400560/HaloFit-Dark-Matter-Rotation-Curve-Analyzer.git
 ```
 
 ### Install Dependencies
